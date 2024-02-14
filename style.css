@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Lato, sans-serif;
+  }
+  
+  h1,h3 {
+    text-align: center
+  }
+  
+  table, th, td {
+    border:1px solid black;
+    padding: 2px;
+  }
+  table{
+    width: 100%;
+  }
+  thead{
+    background-color: yellow;
+  }
+  .name{
+    width: 10%;
+  }
+  .description{
+    width: 70%;
+  }
